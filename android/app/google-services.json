@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1076533576941",
+    "project_id": "checkpoint-24787",
+    "storage_bucket": "checkpoint-24787.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076533576941:android:f5aee5d02d00104a1cb8e4",
+        "android_client_info": {
+          "package_name": "com.gladysalpha.checkpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076533576941-sto8vg02ttq8knmg45trnid4q22b1737.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUs8CB25w0Wx4G67eVjYhXZQLDn5noMSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076533576941-sto8vg02ttq8knmg45trnid4q22b1737.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1076533576941-t8f1m0q43slkseh6lbh4g5eq4nve1v9t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gladysalpha.checkpoint"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
